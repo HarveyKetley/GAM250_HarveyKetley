@@ -10,4 +10,5 @@ Unity Engine - https://unity.com/
 
 Asset Creation Software:
 Piskel App - https://www.piskelapp.com/ 
+(All assets, apart from the player character, where created by me)
 
